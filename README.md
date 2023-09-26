@@ -9,3 +9,7 @@ A central coordination point for all of the HMLR open linked-data applications
 - [Price Paid Data (PPD)](https://github.com/epimorphics/ppd-explorer)
 - [Standard Reports](https://github.com/epimorphics/standard-reports-ui)
 - [Qonsole (SPARQL Query)](https://github.com/epimorphics/qonsole)
+
+### Gems
+
+- [Common Styles](https://github.com/epimorphics/lr_common_styles)
